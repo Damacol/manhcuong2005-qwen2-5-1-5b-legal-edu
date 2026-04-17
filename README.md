@@ -1,4 +1,4 @@
-# manhcuong2005/qwen2.5-1.5b-legal-edu - Private, Uncensored AI for Real Creators and Devs
+# manhcuong2005/qwen2.5-1.5b-legal-edu  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
